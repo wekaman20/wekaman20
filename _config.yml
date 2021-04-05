@@ -1,1 +1,6 @@
+title: Learning R
+description: A site for learning R
+google_analytics: true
+show_downloads: true
+
 theme: jekyll-theme-minimal
